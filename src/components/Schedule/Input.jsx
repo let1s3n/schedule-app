@@ -29,7 +29,7 @@ class Input extends Component {
 
   render() {
     return (
-      <div className="container">
+      <div className="container-sm mx-auto overflow-auto">
 
         <div className="row p-3 justify-content-center bg-primary">
           <div className="col-sm-2">
